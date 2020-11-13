@@ -35,9 +35,9 @@ header{
 #menu{
   position: fixed;
   top: 100px;
-  font-size: 100px;
+  font-size: 85px;
   font-family: 'Crimson Text', serif;
-  line-height: 1;
+  line-height: 2;
   left: 20px;
   z-index: 100;
   cursor: pointer;
