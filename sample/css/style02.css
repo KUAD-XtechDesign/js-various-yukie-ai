@@ -18,6 +18,7 @@ header{
   z-index: 100;
   top: 0;
   font-family:'Source Serif Pro', serif;
+  color:#00008b;
 
 }
 
@@ -93,3 +94,4 @@ img{
   height: 3px;
   background: linear-gradient(to right, rgb(9, 172, 150),rgb(255, 181, 22));
 }
+
